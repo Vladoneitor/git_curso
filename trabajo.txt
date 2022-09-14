@@ -6,7 +6,7 @@ miercoles
 jueves
 viernes
 
-estaciones del año
+ESTACIONES DEL AÑO
 verano
 invierno
 otoño
